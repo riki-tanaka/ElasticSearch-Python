@@ -168,7 +168,7 @@ Copyright 2021 Elasticsearch B.V. Licensed under the Apache License, Version 2.0
 .. image:: https://img.shields.io/badge/Swift-fa7343?flat=plastic&logo=swift&logoColor=white
 
 .. image:: https://img.shields.io/badge/CocoaPods-ee3322?flat=plastic&logo=cocoapods&logoColor=white
-   :height: 32
+   :height: 32px
    
 <p>
     <!-- Swift -->
