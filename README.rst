@@ -164,6 +164,11 @@ License
 Copyright 2021 Elasticsearch B.V. Licensed under the Apache License, Version 2.0.
 
 ## 🌱 Technologies and Frameworks
+.. image:: https://img.shields.io/badge/Swift-fa7343?flat=plastic&logo=swift&logoColor=white
+
+.. image:: https://img.shields.io/badge/CocoaPods-ee3322?flat=plastic&logo=cocoapods&logoColor=white
+   :src: 32
+   
 <p>
     <!-- Swift -->
     <img src="https://img.shields.io/badge/Swift-fa7343?flat=plastic&logo=swift&logoColor=white" height="32" alt="Swift" />
